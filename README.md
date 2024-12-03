@@ -1,16 +1,34 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&reversal=false&fontColor=98F5FF&section=header" width=100%/>
+
 ### Hi there, I'm Agnes!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AGNES&color=008080&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I'm currently working at Kyndryl as a Mainframe Operator, but I'm studying to become a Data Scientist.</p>
+<p>I'm currently working at Kyndryl as a Mainframe Operator, but I'm studying at EBAC to become a Data Scientist.</p>
+
+<p>I'll be working with</p>
+
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Google Colab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=googlecolab)
+![JupyterNotebook](https://img.shields.io/badge/-JupyterNotebook-333333?style=flat&logo=jupyter)
+
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Looker Studio](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker)
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![K-means](https://img.shields.io/badge/-Kmeans-333333?style=flat&logo=k-means)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-333333?style=flat&logo=statsmodels)
+
 
 ### You can reach me on:
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=agnes.beatriz01@gmail.com" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/agnes-prado-4a6727202" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/agnes-prado-4a6727202" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="mailto:agnes.beatriz01@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:agnes.beatriz01@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/agnes-prado-4a6727202" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
 </p>
+
