@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AGNES&color=008080&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>I'm currently working at Kyndryl as a Mianframe Operator, but studying to become a Data Scientist.</p>
+<p>I'm currently working at Kyndryl as a Mianframe Operator, but I'm studying to become a Data Scientist.</p>
 
 ### You can reach me on:
 
