@@ -21,7 +21,7 @@
 ![Google Colab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=googlecolab)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 
-## You can reach me on:
+## You can reach me on
 
 <p align="left">
   <a href="mailto:agnes.beatriz01@gmail.com" title="Gmail">
